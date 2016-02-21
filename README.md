@@ -6,4 +6,4 @@ Blog posts:
 -----------
 
 [Chaos and the Logistic Difference Equation]() 
- - [logistic_equation.rkt]()
+ - [logistic_equation.rkt](https://github.com/RussellAndrewEdson/lambda-mathematician-code/blob/master/logistic_equation.rkt)
